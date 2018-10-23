@@ -10,7 +10,8 @@ This is a form for users to add relief centre locations in the wake of the recen
 1. Open the `config.js.example` file located in the `src` folder.
 2. Replace the `accessToken` value with your own [MapBox](https://www.mapbox.com/signup/) token. This API allows up to 50,000 map views and geocode requests each on the free plan.
 3. Replace the `postURL` value with the necessary URL to write to the database.
-4. Run the `index.html` file. Everything should be working.
+4. Rename the `config.js.example` file to `config.js`.
+5. Run the `index.html` file. Everything should be working now.
 
 ## Quirks
 
