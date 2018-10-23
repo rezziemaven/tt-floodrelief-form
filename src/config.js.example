@@ -1,0 +1,5 @@
+const accessToken = '<your MapBox access token>';
+
+const postURL = '<set endpoint here>';
+
+const homeURL = 'https://relief.wepala.com';
